@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AYUSH YALASANGI </h1>
 <h3 align="center"> Currently pursuing my B.E. in Electronics and Communication Engineering at MVJCE </h3>
 
-- 🔭 I’m currently working on **UART Comm. Protocol**
-
-- 🌱 I’m currently learning **FPGA**
-
 - 📫 How to reach me **ayushyalasangi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

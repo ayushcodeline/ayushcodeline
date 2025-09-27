@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AYUSH YALASANGI</h1>
-<h3 align="center">3 align="center">Currently pursuing my B.E. in Electronics and Communication Engineering at MVJCE</h3>
+<h1 align="center">Hi 👋, I'm AYUSH YALASANGI </h1>
+<h3 align="center"> Currently pursuing my B.E. in Electronics and Communication Engineering at MVJCE </h3>
 
 - 🔭 I’m currently working on **UART Comm. Protocol**
 
